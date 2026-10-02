@@ -1,5 +1,5 @@
-Moneeb Ali Karrar
--M.Sc. Artificial Intelligence
+I'm Moneeb Ali Karrar
+-student of M.Sc. Artificial Intelligence
 - Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 
 <!---
