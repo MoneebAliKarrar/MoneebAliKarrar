@@ -1,7 +1,6 @@
 Moneeb Ali Karrar
-
-M.Sc. Artificial Intelligence
-Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+-M.Sc. Artificial Intelligence
+- Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 
 <!---
 MoneebAliKarrar/MoneebAliKarrar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
