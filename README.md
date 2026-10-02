@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MoneebAliKarrar
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning coding in different programming languages.
-- 📫 How to reach me: moneebalikarrar@gmail.com
-- ⚡ Fun fact: I'm still a student.
+Moneeb Ali Karrar
+
+M.Sc. Artificial Intelligence
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 
 <!---
 MoneebAliKarrar/MoneebAliKarrar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
